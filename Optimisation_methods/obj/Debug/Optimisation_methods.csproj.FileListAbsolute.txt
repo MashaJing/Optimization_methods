@@ -1,0 +1,14 @@
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\bin\Debug\Optimisation_methods.exe.config
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\bin\Debug\Optimisation_methods.exe
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\bin\Debug\Optimisation_methods.pdb
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.csprojAssemblyReference.cache
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.exe
+C:\Users\Ilya Shevtsov\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.pdb
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\bin\Debug\Optimisation_methods.exe.config
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\bin\Debug\Optimisation_methods.exe
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\bin\Debug\Optimisation_methods.pdb
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.csprojAssemblyReference.cache
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.csproj.CoreCompileInputs.cache
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.exe
+C:\Users\mdzek\source\repos\Optimisation_methods\Optimisation_methods\obj\Debug\Optimisation_methods.pdb
